@@ -1,0 +1,9 @@
+[project]
+name = "tripmate"
+version = "0.1.0"
+description = "TripMate — консольный ассистент путешественника на локальных LLM (llama.cpp) и OpenRouter"
+requires-python = ">=3.11"
+dependencies = ["openai>=1.40"]
+
+[tool.uv]
+package = false

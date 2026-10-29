@@ -5,3 +5,4 @@ models/*.gguf
 logs/server-*.log
 logs/*.pid
 .idea/
+hw2/*.tmp
